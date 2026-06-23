@@ -51,7 +51,7 @@ Gridlock 2.0 is a real-time urban traffic intelligence platform designed to serv
 
 ## Live Demo
 
-🔗 **[https://gridlock2.streamlit.app](https://gridlock2.streamlit.app)**  
+🔗 **[https://gridlock2.streamlit.app](https://gridlock2-ojh3duebm5gbxmavigoysx.streamlit.app)**  
 *(Hosted on Streamlit Community Cloud — no installation required)*
 
 ---
